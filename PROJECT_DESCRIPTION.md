@@ -36,7 +36,7 @@ The dataset contains information about loan applicants, including:
 Credit-Risk-Prediction/
 │
 ├── Credit_Risk_Prediction.ipynb
-├── Dataset.csv
+├── Dataset.xls
 └── README.md
 ```
 
